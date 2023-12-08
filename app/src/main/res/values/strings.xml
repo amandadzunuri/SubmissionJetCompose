@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SubmissionJetCompose</string>
+    <string name="email">Email: amandadzunuri@gmail.com</string>
+    <string name="name">Nama: Amanda Dzunuri Elvira Yaniar</string>
+    <string name="profile">amanda_photo</string>
+    <string name="search_recipe">Search recipe by name</string>
+    <string name="recipe_cover">Recipe cover</string>
+    <string name="home">Home</string>
+    <string name="home_page">Home Page</string>
+    <string name="fav">Favorite</string>
+    <string name="favorite_page">Favorite Page</string>
+    <string name="about_page">About Me Page</string>
+    <string name="back">Back</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="servings">Servings: %s</string>
+    <string name="cooking_time">Cooking Time : %s</string>
+    <string name="about_me">About Me</string>
+</resources>
